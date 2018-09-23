@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="slf4j.jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/com.fasterxml.jackson.core.jar.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-core-2.4.4 (1).jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-lang3-3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-simple-1.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-annotations-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/site/apidocs" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/site/testapidocs" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/site/apidocs" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/site/testapidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/integration/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/jcl-over-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/jcl-over-slf4j/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/jul-to-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/jul-to-slf4j/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/log4j-over-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/log4j-over-slf4j/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/osgi-over-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-android/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-android/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-api/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-ext/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-ext/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-jcl/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-jcl/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-jdk14/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-jdk14/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-log4j12/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-log4j12/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-migrator/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-migrator/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-nop/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-nop/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-simple/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.7.25.zip!/slf4j-1.7.25/slf4j-simple/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/integration/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/jcl-over-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/jcl-over-slf4j/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/jul-to-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/jul-to-slf4j/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/log4j-over-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/log4j-over-slf4j/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/osgi-over-slf4j/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-api/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-ext/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-ext/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-jdk14/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-jdk14/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-log4j12/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-log4j12/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-migrator/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-migrator/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-nop/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-nop/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-simple/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-1.8.0-beta2.zip!/slf4j-1.8.0-beta2/slf4j-simple/src/test/java" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jackson-databind-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
